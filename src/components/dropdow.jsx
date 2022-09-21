@@ -3,7 +3,7 @@ import React from 'react';
 const Dropdow = () => {
     return (
         <>
-            <li className="nav-item dropdown">
+            {/* <li className="nav-item dropdown">
           <a className="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Dropdown</a>
           <div className="dropdown-menu">
             <a className="dropdown-item" href="#">Action</a>
@@ -12,7 +12,7 @@ const Dropdow = () => {
             <div className="dropdown-divider" />
             <a className="dropdown-item" href="#">Separated link</a>
           </div>
-        </li>
+        </li> */}
         </>
     );
 }
