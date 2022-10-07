@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "idCategoria":1,
+        "categoria": "Anatomia",
+        "nombre": "Atlas de Anatomia Humana Netter",
+        "precio": 2000,
+        "stock": 50,
+        "img": "netter.jpg"
+    },
+    {
+        "id": 2,
+        "idCategoria":1,
+        "categoria": "Anatomia",
+        "nombre": "Anatomia Humana Latarjet",
+        "precio": 2800,
+        "stock": 50,
+        "img": "latarjet.jpg"
+    },
+    {
+        "id": 3,
+        "idCategoria":2,
+        "categoria": "Histologia",
+        "nombre": "Histologia Texto y Atlas Ross",
+        "precio": 3200,
+        "stock": 50,
+        "img": "ross.jpg"
+    },
+    {
+        "id": 4,
+        "idCategoria":3,
+        "categoria": "Fisiologia",
+        "nombre": "Tratado de Fisiologia Medica - Guyton y Hall",
+        "precio": 3000,
+        "stock": 50,
+        "img": "guyton.jpg"
+    },
+    {
+        "id": 5,
+        "idCategoria":4,
+        "categoria": "Bioquimica",
+        "nombre": "Bioquimica Ilustrada - Harper",
+        "precio": 2800,
+        "stock": 50,
+        "img": "harper.jpg"
+    },
+    {
+        "id": 6,
+        "idCategoria":4,
+        "categoria": "Bioquimica",
+        "nombre": "Quimica Biologica - Antonio Blanco",
+        "precio": 3000,
+        "stock": 50,
+        "img": "blanco.jpg"
+    }
+]

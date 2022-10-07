@@ -1,12 +1,13 @@
 import React from "react";
-
+import { Link } from "react-router-dom";
 const Brand = () => {
   return (
     <>
       <div >
-      <span className="navbar-brand mb-0 h1">
+      <Link className='nav-link' to={"/"}><span className="navbar-brand mb-0 h1">
           Alvear Imprime
-          </span>
+          </span></Link>
+      
       </div>
     </>
   );
