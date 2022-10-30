@@ -5,8 +5,8 @@
         "categoria": "Anatomia",
         "nombre": "Atlas de Anatomia Humana Netter",
         "precio": 2000,
-        "stock": 50,
-        "img": "netter.jpg"
+        "stock": 12,
+        "img": "https://firebasestorage.googleapis.com/v0/b/alvearimprime.appspot.com/o/Imagenes%2Fnetter.jpg?alt=media&token=0c258dae-b21d-4202-b8da-a2f7ad5b0ca8"
     },
     {
         "id": 2,
@@ -14,8 +14,8 @@
         "categoria": "Anatomia",
         "nombre": "Anatomia Humana Latarjet",
         "precio": 2800,
-        "stock": 50,
-        "img": "latarjet.jpg"
+        "stock": 8,
+        "img": "https://firebasestorage.googleapis.com/v0/b/alvearimprime.appspot.com/o/Imagenes%2Flatarjet.jpg?alt=media&token=af04a830-b69c-42ec-a37a-c6dbc6342a14"
     },
     {
         "id": 3,
@@ -23,8 +23,8 @@
         "categoria": "Histologia",
         "nombre": "Histologia Texto y Atlas Ross",
         "precio": 3200,
-        "stock": 50,
-        "img": "ross.jpg"
+        "stock": 7,
+        "img": "https://firebasestorage.googleapis.com/v0/b/alvearimprime.appspot.com/o/Imagenes%2Fross.jpg?alt=media&token=3bf3c364-480a-485a-a435-24b318098b08"
     },
     {
         "id": 4,
@@ -32,8 +32,8 @@
         "categoria": "Fisiologia",
         "nombre": "Tratado de Fisiologia Medica - Guyton y Hall",
         "precio": 3000,
-        "stock": 50,
-        "img": "guyton.jpg"
+        "stock": 10,
+        "img": "https://firebasestorage.googleapis.com/v0/b/alvearimprime.appspot.com/o/Imagenes%2Fguyton.jpg?alt=media&token=649e43a6-b218-4090-b9ae-be84ddeb32c9"
     },
     {
         "id": 5,
@@ -41,8 +41,8 @@
         "categoria": "Bioquimica",
         "nombre": "Bioquimica Ilustrada - Harper",
         "precio": 2800,
-        "stock": 50,
-        "img": "harper.jpg"
+        "stock": 8,
+        "img": "https://firebasestorage.googleapis.com/v0/b/alvearimprime.appspot.com/o/Imagenes%2Fharper.jpg?alt=media&token=32839014-944d-4bd9-ac80-fde054cbeb08"
     },
     {
         "id": 6,
@@ -50,7 +50,7 @@
         "categoria": "Bioquimica",
         "nombre": "Quimica Biologica - Antonio Blanco",
         "precio": 3000,
-        "stock": 50,
-        "img": "blanco.jpg"
+        "stock": 20,
+        "img": "https://firebasestorage.googleapis.com/v0/b/alvearimprime.appspot.com/o/Imagenes%2Fblanco.jpg?alt=media&token=9fadfe0f-557c-42c0-a7b4-ba95bdcc9714"
     }
 ]

@@ -1,13 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
-
+import { CarritoProvider } from './context/CarritoContext';
+import './styles/index.css';
+import App from './components/App';
+import './utils/Cards'
+// import './utils/x.js'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <React.StrictMode>
+  <CarritoProvider>
     <App />
-  </React.StrictMode>
+  </CarritoProvider>
 );
 
